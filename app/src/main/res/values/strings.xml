@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Anime Compose</string>
+    <string name="menu_home">Home</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="search">Cari Judul Anime</string>
+    <string name="empty_item">Judul Tidak Ditemukan</string>
+    <string name="back">Kembali</string>
+    <string name="delete_favorite">Hapus Dari Favorite</string>
+    <string name="add_favorite">Tambahkan Ke Favorite</string>
+    <string name="share">Kirim Detail Anime</string>
+    <string name="empty_favorite">Data Favorite Tidak Ditemukan</string>
+
+</resources>
