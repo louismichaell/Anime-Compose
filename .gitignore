@@ -2,7 +2,7 @@
 .gradle
 /local.properties
 *.idea/
-.gradle/*.wrapperr/
+gradle/*.wrapperr/
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
